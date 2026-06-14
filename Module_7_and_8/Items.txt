@@ -1,0 +1,15 @@
+Widget
+10
+50
+Hammer
+2
+10
+Saw
+5
+25
+Drill
+3
+75
+Wrench
+8
+15

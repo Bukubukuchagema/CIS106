@@ -1,0 +1,10 @@
+Adams
+50000.00
+Baker
+75000.00
+Smith
+45000.00
+Johnson
+105000.00
+Williams
+30000.00
